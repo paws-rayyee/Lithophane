@@ -1,7 +1,15 @@
 # Lithophane 隱雕
-***
+
 3D printing photos
 
+![L-2]
+![L-1]
+![L-3]
+
+[L-1]: ./L-1.jpeg
+[L-2]: ./L-2.jpeg
+[L-3]: ./L-3.jpeg
+***
 ##  [3D 打印]
 [3D 打印]: ./3DPrinting
 ***
