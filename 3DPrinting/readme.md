@@ -13,7 +13,7 @@
 [3d-1.png]: ./3d-1.png
 [3d-2.png]: ./3d-2.png
 [3d-3.png]: ./3d-3.png
-
+***
 ## 印刷物料 - PLA 和 ABS
 
 3D打印常見的物料為 PLA 和 ABS 。ABS樹脂，Acrylonitrile Butadiene Styrene 丙烯腈-丁二烯-苯乙烯共聚物，用途廣泛，於一般家庭電器產品也經常使用。
@@ -22,8 +22,9 @@ PLA，Polylactic Acid 聚乳酸，由粟米、蔗等材料所提煉，打印時�
 ![3d-4]
 
 [3d-4]: ./3d-4.png
-
+***
 ## 玻璃轉化溫度（glass transition temperature, Tg）
 當某個3D打印材料達到它自己的玻璃轉化溫度時，就會開始變軟。例如如果將100度熱水倒進用PLA打印的容器時，由於PLA璃轉化溫度爲60-65ºC，所以容器會立即變軟，所以PLA不適合高於60ºC或以上的環境中使用。
 
+***
 [![](http://img.youtube.com/vi/kbmdwBwm7BU/0.jpg)](http://www.youtube.com/watch?v=kbmdwBwm7BU&t=3m52s "3d printing")
