@@ -1,14 +1,14 @@
 # Lithophane 隱雕
+***
 3D printing photos
 
 ##  [3D 打印]
-
 [3D 打印]: ./3DPrinting
-
+***
 ## [3D 設計軟件 TinkerCAD]
 
 [3D 設計軟件 TinkerCAD]: http://www.tinkercad.com
-
+***
 ## Lithophane 隱雕建模方法
 1. [TinkerCAD]
 
@@ -24,4 +24,4 @@
 [TinkerCAD]: http://www.tinkercad.com
 [3dp.rocks]: http://3dp.rocks
 [Cura]: https://ultimaker.com/en/products/ultimaker-cura-software
-[Thingiverse]: https://www.thingiverse.com/thing:74322
+[Thingiverse]: https://www.thingiverse.com/apps/customizer/run?thing_id=74322
