@@ -26,4 +26,4 @@ PLA，Polylactic Acid 聚乳酸，由粟米、蔗等材料所提煉，打印時�
 ## 玻璃轉化溫度（glass transition temperature, Tg）
 當某個3D打印材料達到它自己的玻璃轉化溫度時，就會開始變軟。例如如果將100度熱水倒進用PLA打印的容器時，由於PLA璃轉化溫度爲60-65ºC，所以容器會立即變軟，所以PLA不適合高於60ºC或以上的環境中使用。
 
-
+[![](http://img.youtube.com/vi/Vx0Z6LplaMU/0.jpg)](http://www.youtube.com/watch?v=Vx0Z6LplaMU&t=0m51s "3D Printing")
